@@ -1,2 +1,2 @@
 # PortafolioAndres
-githubPages2
+github Pages2
